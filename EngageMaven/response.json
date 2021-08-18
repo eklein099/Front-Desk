@@ -1,0 +1,2596 @@
+{
+  "pageNumber": 1,
+  "pageSize": 100,
+  "totalItems": 18,
+  "totalPages": 1,
+  "items": [
+    {
+      "requestId": 1003379,
+      "requestNumber": 2478,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "M Climb Event",
+      "requestedAmount": 100.0,
+      "description": "MSA will participate in M climb event. Snacks (choclates/ granola bars/ candies) will be purchased from King Soopers for worth of $100",
+      "accountId": 103321,
+      "accountName": "Muslim Student Association - MSA (383657)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Unapproved",
+      "submitterId": 24498445,
+      "submitterName": "Ammad Khan",
+      "submitterUsername": "ammadkhan",
+      "submitterCampusEmail": "ammadkhan@mymail.mines.edu",
+      "submittedDate": "1629242746000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Muhammad Awais Butt"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "ambutt@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7204345202"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday, August, 19, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "12:00 PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "3:00 PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Ammad Khan"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003416,
+      "requestNumber": 2479,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Ballroom Fall Kickoff Event",
+      "requestedAmount": 90.0,
+      "description": "The ballroom dance club will be hosting lessons and a social dance event as a fall kickoff event. To help with the socializing, we wanted to bring some ice cream to celebrate the beginning of the year. We would purchase small ice cream cups (~120) in packages of 12 (10 packages). Each package should only be $7, so $70 should be sufficient with a little bit of wiggle room added. We would make this purchase from the local king soopers.\r\n\r\nThis link shows the package we would purchase: \r\nhttps://www.instacart.com/landing?product_id=221809&retailer_id=56&region_id=4411631249&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_rp_july-4&utm_content=accountid-8145171519_campaignid-13618159377_adgroupid-126784678729_device-c&gclid=CjwKCAjwmeiIBhA6EiwA-uaeFUPuBfeqfvnSqgZLEIHGvY8JLsUz4BJZHXKvhNyQPPZ7uaL12SalmhoC19EQAvD_BwE",
+      "accountId": 103250,
+      "accountName": "Ballroom Dance Club (383827)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "Griffin",
+      "payeeLastName": "Hampton",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 16026678,
+      "submitterName": "Griffin Hampton",
+      "submitterUsername": "ghampton",
+      "submitterCampusEmail": "ghampton@mymail.mines.edu",
+      "submittedDate": "1629259423000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Griffin Hampton"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "ghampton@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "6303866550"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday, August 19th"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "12:00 PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "1:30 PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Griffin Hampton"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "AoE_FallKickoff_Ballroom.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003249,
+      "requestNumber": 2474,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Mines Catholic Campus Ministry",
+      "requestedAmount": 175.0,
+      "description": "King Soopers\r\nFood for back to school activities\r\nThis includes the M-climb, a barbecue, and breakfast after mass on Sunday.",
+      "accountId": 103346,
+      "accountName": "Mines Catholic Campus Ministry MCCM - formerly FOCUS (386069)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 23929958,
+      "submitterName": "Derrick Poss",
+      "submitterUsername": "dposs1",
+      "submitterCampusEmail": "dposs1@mymail.mines.edu",
+      "submittedDate": "1629212284000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "Please submit an event request through engage, Haley Hannaman must approve the event before purchases can be made. ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "dposs1@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "9705541664"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday, August 19, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "9:00 AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "10:30 AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "A_of_E_-_Fall_Kickoff_food.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003224,
+      "requestNumber": 2473,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "AIAA and WoAA Robotic challenge test field",
+      "requestedAmount": 300.0,
+      "description": "https://orgs.mines.edu/aiaa/space-robotics-challenge/\r\n\r\nWe are trying to decide on materials, like sand / PVC / etc to build a field. With a budget of 300$, we plan to gather materials at Home Depot and plan out the field.",
+      "accountId": 103393,
+      "accountName": "American Institute of Aeronautics and Astronautics - AIAA formally Space Society (386521)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "Viktoria",
+      "payeeLastName": "Kungel",
+      "payeeStreet1": "1500 Illinois St",
+      "payeeStreet2": "Physics Dep",
+      "payeeCity": "Golden",
+      "payeeState": "CO",
+      "payeePostal": "80401",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 16345158,
+      "submitterName": "Viktoria Kungel",
+      "submitterUsername": "kungel",
+      "submitterCampusEmail": "kungel@mymail.mines.edu",
+      "submittedDate": "1629166448000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "Please resubmit with the card return time being 3 hours after the check out time at the latest. Everything else was fine. ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kungel@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206304646"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday August 19th"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "10 am"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "2 pm (latest, just in case)"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Formfieldmaterial.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003135,
+      "requestNumber": 2470,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "USG M-Climb",
+      "requestedAmount": 300.0,
+      "description": "Popsicles for those participating in M-Climb",
+      "accountId": 103416,
+      "accountName": "Undergraduate Student Government - USG (331515)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 16335508,
+      "submitterName": "Conall Saxena",
+      "submitterUsername": "csaxena",
+      "submitterCampusEmail": "csaxena@mymail.mines.edu",
+      "submittedDate": "1629132413000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "Please submit an event request through engage, Haley Hannaman must approve the event before purchases can be made. ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Conall Saxena"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "csaxena@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "4804364444"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Monday, August 16th, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "2:00PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "2:00PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Conall Saxena"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "Amazon Purchase link provided in AEF form below"
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Form_(9).docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003084,
+      "requestNumber": 2469,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Mines Catholic Campus Ministry",
+      "requestedAmount": 175.0,
+      "description": "Food for back to school activities\r\nThis includes the M-climb, a barbecue, and breakfast after mass on Sunday.",
+      "accountId": 103346,
+      "accountName": "Mines Catholic Campus Ministry MCCM - formerly FOCUS (386069)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 23929958,
+      "submitterName": "Derrick Poss",
+      "submitterUsername": "dposs1",
+      "submitterCampusEmail": "dposs1@mymail.mines.edu",
+      "submittedDate": "1629082101000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "The SAIL office will be close Friday August 20th, please select a new date to pick up the one card. ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "dposs1@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "9705541664"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Friday, August 20, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "9:00 AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "10:30 AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "A_of_E_-_Fall_Kickoff_food.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1002992,
+      "requestNumber": 2468,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Undergraduate Student Government M-Climb",
+      "requestedAmount": 300.0,
+      "description": "Popsicles",
+      "accountId": 103416,
+      "accountName": "Undergraduate Student Government - USG (331515)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 16335508,
+      "submitterName": "Conall Saxena",
+      "submitterUsername": "csaxena",
+      "submitterCampusEmail": "csaxena@mymail.mines.edu",
+      "submittedDate": "1628889928000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "Our apologies, the SAIL office closed Friday at 3:30 so we did not have time to process your request. Can you please resubmit with a new time to check out the one card? ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Conall Saxena"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "csaxena@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "4804364444"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Monday, August 16th, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "9:00AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "9:00AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Conall Saxena"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "Amazon Purchase"
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Form_(9).docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1002962,
+      "requestNumber": 2467,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Chinese Student and Scholar Association Fall Welcoming Event",
+      "requestedAmount": 750.0,
+      "description": "Every fall semester, Chinese Student and Scholar Association holds a welcoming event to introduce Mines to incoming students. Due to the pandemic, the event will be limited to 50 students. The event will occur on August 30, 4-6 pm in Kafadar Commons (space already reserved.) There will be food and games so that students can get to know each others. In this case, we need to purchase food, games, and possibly some decorations.",
+      "accountId": 155207,
+      "accountName": "ISC: Chinese Student and Scholar Association - CSSA (382778)",
+      "categoryId": 7898,
+      "categoryName": "Food",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Denied",
+      "submitterId": 15697632,
+      "submitterName": "Yue Teng",
+      "submitterUsername": "yteng",
+      "submitterCampusEmail": "yteng@mymail.mines.edu",
+      "submittedDate": "1628881506000",
+      "approverId": null,
+      "approverName": "",
+      "approverCampusEmail": "",
+      "approverUsername": "",
+      "approverComments": "Please submit an event request through engage, Haley Hannaman must approve the event before purchases can be made. ",
+      "approvedDate": "",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Yue Teng"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "yteng@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "720-435-8025"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Monday, August, 30, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "12:30 PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "3:30 PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": [
+            "Monday, August, 30, 2021"
+          ]
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Yue Teng"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Form.pdf"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003357,
+      "requestNumber": 2477,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Mines Catholic Campus Ministry",
+      "requestedAmount": 20.0,
+      "description": "Amazon\r\n\r\nwater guns for M-climb\r\n\r\nhttps://www.amazon.com/Max-Liquidator-6-Pack-Water-Blaster/dp/B0796JVBJ8/ref=sr_1_5?crid=1DZ03ANJ33IMP&dchild=1&keywords=max+liquidator+6-pack+water+blaster+set&qid=1629233898&sprefix=max+li%2Caps%2C252&sr=8-5",
+      "accountId": 103346,
+      "accountName": "Mines Catholic Campus Ministry MCCM - formerly FOCUS (386069)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 23929958,
+      "submitterName": "Derrick Poss",
+      "submitterUsername": "dposs1",
+      "submitterCampusEmail": "dposs1@mymail.mines.edu",
+      "submittedDate": "1629234119000",
+      "approverId": 15945828,
+      "approverName": "Hunter Johnson",
+      "approverCampusEmail": "hunterjohnson@mymail.mines.edu",
+      "approverUsername": "hunterjohnson",
+      "approverComments": "They have been ordered and should arrive Thursday 8/19, for future reference we are now asking students to come in to our office to place amazon orders if they are comfortable being in person. ",
+      "approvedDate": "1629293436000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "dposs1@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "9705541664"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Amazon"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "Amazon"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "Amazon"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Derrick Poss"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003350,
+      "requestNumber": 2476,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "oSTEM",
+      "requestedAmount": 20.0,
+      "description": "oSTEM plans to purchase ice pops from Safeway to hand out to the incoming class at the M-Climb.",
+      "accountId": 103339,
+      "accountName": "oSTEM (384695)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 22736360,
+      "submitterName": "Katherine Bailey",
+      "submitterUsername": "kbailey",
+      "submitterCampusEmail": "kbailey@mymail.mines.edu",
+      "submittedDate": "1629232552000",
+      "approverId": 25816101,
+      "approverName": "Evan Klein",
+      "approverCampusEmail": "eklein@mymail.mines.edu",
+      "approverUsername": "eklein",
+      "approverComments": "",
+      "approvedDate": "1629293575000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Katherine Bailey"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kbailey@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "6614328170"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday, August 19"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "2:15PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "3:30PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Katherine Bailey"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003335,
+      "requestNumber": 2475,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "AIAA and WoAA Robotic challenge test field",
+      "requestedAmount": 300.0,
+      "description": "https://orgs.mines.edu/aiaa/space-robotics-challenge/\r\n\r\nWe are trying to decide on materials, like sand / PVC / etc to build a field. With a budget of 300$, we plan to gather materials at Home Depot and plan out the field.",
+      "accountId": 103393,
+      "accountName": "American Institute of Aeronautics and Astronautics - AIAA formally Space Society (386521)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "Viktoria",
+      "payeeLastName": "Kungel",
+      "payeeStreet1": "1500 Illinois St",
+      "payeeStreet2": "Physics Dep",
+      "payeeCity": "Golden",
+      "payeeState": "CO",
+      "payeePostal": "80401",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16345158,
+      "submitterName": "Viktoria Kungel",
+      "submitterUsername": "kungel",
+      "submitterCampusEmail": "kungel@mymail.mines.edu",
+      "submittedDate": "1629230087000",
+      "approverId": 15945828,
+      "approverName": "Hunter Johnson",
+      "approverCampusEmail": "hunterjohnson@mymail.mines.edu",
+      "approverUsername": "hunterjohnson",
+      "approverComments": "",
+      "approvedDate": "1629228483000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kungel@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206304646"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday August 19th"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "10 am"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "1pm"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Formfieldmaterial.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003180,
+      "requestNumber": 2472,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "AIAA social media and marketing",
+      "requestedAmount": 119.0,
+      "description": "Subscriptions to Canva.com for creating social media and marketing content for AIAA/WoAA, for example for the robotics event: https://orgs.mines.edu/aiaa/space-robotics-challenge/\r\nCrowdfunding: https://www.givecampus.com/schools/ColoradoSchoolofMines/mines-space-robotics-challenge/\r\nSponsorship Info: https://orgs.mines.edu/aiaa/wp-content/uploads/sites/21/2021/06/AIAA_MSRC_Sponsorship_fin.pdf\r\n\r\n A yearly subscription is $119.99\r\n",
+      "accountId": 103393,
+      "accountName": "American Institute of Aeronautics and Astronautics - AIAA formally Space Society (386521)",
+      "categoryId": 7904,
+      "categoryName": "Services",
+      "payeeFirstName": "Viktoria",
+      "payeeLastName": "Kungel",
+      "payeeStreet1": "1500 Illinois St",
+      "payeeStreet2": "Physics Dep",
+      "payeeCity": "Golden",
+      "payeeState": "CO",
+      "payeePostal": "80401",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16345158,
+      "submitterName": "Viktoria Kungel",
+      "submitterUsername": "kungel",
+      "submitterCampusEmail": "kungel@mymail.mines.edu",
+      "submittedDate": "1629146796000",
+      "approverId": 15945828,
+      "approverName": "Hunter Johnson",
+      "approverCampusEmail": "hunterjohnson@mymail.mines.edu",
+      "approverUsername": "hunterjohnson",
+      "approverComments": "Please note that the SAIL office closes promptly at 3:30, if you would like to arrive slightly before 3 to complete your purchases that is ok. ",
+      "approvedDate": "1629207978000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kungel@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206304646"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Tuesday August 17"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "3pm"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "4pm"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_FormCanva.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1003176,
+      "requestNumber": 2471,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "AIAA robotic event supplies",
+      "requestedAmount": 2000.0,
+      "description": "https://orgs.mines.edu/aiaa/space-robotics-challenge/\r\n\r\n6 Robotics kits:\r\nhttps://www.amazon.com/Makeblock-DIY-Ultimate-Robot-Kit/dp/B00W6Y0Z4E\r\n\r\n10 color sensors\r\nhttps://www.robotshop.com/en/makeblock-me-color-sensor-v1.html?gclid=CjwKCAjwoZWHBhBgEiwAiMN66XJJQ-PybmP-8BoDOCZ__9BCusll7O9L_nVJiHEEchZkizI7Tm_UcxoCxRAQAvD_BwE\r\n",
+      "accountId": 103393,
+      "accountName": "American Institute of Aeronautics and Astronautics - AIAA formally Space Society (386521)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "Viktoria",
+      "payeeLastName": "Kungel",
+      "payeeStreet1": "1500 Illinois St",
+      "payeeStreet2": "Physics Dep",
+      "payeeCity": "Golden",
+      "payeeState": "CO",
+      "payeePostal": "80401",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16345158,
+      "submitterName": "Viktoria Kungel",
+      "submitterUsername": "kungel",
+      "submitterCampusEmail": "kungel@mymail.mines.edu",
+      "submittedDate": "1629144624000",
+      "approverId": 15945828,
+      "approverName": "Hunter Johnson",
+      "approverCampusEmail": "hunterjohnson@mymail.mines.edu",
+      "approverUsername": "hunterjohnson",
+      "approverComments": "Please note that the SAIL office closes promptly at 3:30, if you would like to arrive slightly before 3 to complete your purchases that is ok. ",
+      "approvedDate": "1629208231000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kungel@mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206304646"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Tuesday August 17"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "3pm"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "4pm"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Viktoria Kungel"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Appropriateness_of_Expenditures_Form_robots.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1002057,
+      "requestNumber": 2466,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Cheerleading Team ",
+      "requestedAmount": 906.6,
+      "description": "We will be purchasing a tumbling mat from EZ Flex Sport Mats to complete our set so we have a full floor. This will allow us to stunt and tumble safely in preparation for competition and games. ",
+      "accountId": 103263,
+      "accountName": "Cheerleading (383904)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16130439,
+      "submitterName": "Delaney Boyle",
+      "submitterUsername": "delaneyboyle",
+      "submitterCampusEmail": "delaneyboyle@mymail.mines.edu",
+      "submittedDate": "1628100112000",
+      "approverId": 25816101,
+      "approverName": "Evan Klein",
+      "approverCampusEmail": "eklein@mymail.mines.edu",
+      "approverUsername": "eklein",
+      "approverComments": "",
+      "approvedDate": "1628095337000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "delaneyboyle@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "720-626-4250"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday August 5, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "11:00 AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "11:00 AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "See email with invoice for info"
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Mat_Appropriateness_of_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1002049,
+      "requestNumber": 2465,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Cheerleading Team ",
+      "requestedAmount": 364.87,
+      "description": "We need to buy new poms for the school year from Omni Cheer. We are hoping to get one blue pom and one white pom for every girl on the team, which  is 26 of each. The amount requested is without a discount, but when I looked today, there was a 15% discount on the navy blue poms so it may end up being less. \r\nhttps://www.omnicheer.com/shop/pom-poms/in-stock-cheer-pom-poms/plastic-poms/solid-plastic-in-stock-pom_pi4408\r\nColors: 116, 180\r\nQuantity: 26 of each color",
+      "accountId": 103263,
+      "accountName": "Cheerleading (383904)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16130439,
+      "submitterName": "Delaney Boyle",
+      "submitterUsername": "delaneyboyle",
+      "submitterCampusEmail": "delaneyboyle@mymail.mines.edu",
+      "submittedDate": "1628096960000",
+      "approverId": 25816101,
+      "approverName": "Evan Klein",
+      "approverCampusEmail": "eklein@mymail.mines.edu",
+      "approverUsername": "eklein",
+      "approverComments": "",
+      "approvedDate": "1628093289000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "delaneyboyle@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "720-626-4250"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Thursday August 5, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "11:00 AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "11:00 AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "I am not in the state, so if yall could order it for me online that would be sick. The poms should be in the shopping cart of our account at the link above. I can email you the login information once the request is approved. I can also do this order as a purchase order through the school if that is easier so just let me know :)"
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Poms_Appropriateness_of_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1001733,
+      "requestNumber": 2464,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Cheerleading Team ",
+      "requestedAmount": 2224.1,
+      "description": "This purchase completes our camp registration through Varsity Cheer and secures our spot at cheer camp this August. This payment will be partially reimbursed by cheerleaders, but has to be completed by August 1st if we wish to cheer at this camp and at Nationals this January. ",
+      "accountId": 103263,
+      "accountName": "Cheerleading (383904)",
+      "categoryId": 7900,
+      "categoryName": "Travel",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16130439,
+      "submitterName": "Delaney Boyle",
+      "submitterUsername": "delaneyboyle",
+      "submitterCampusEmail": "delaneyboyle@mymail.mines.edu",
+      "submittedDate": "1627597535000",
+      "approverId": 25816101,
+      "approverName": "Evan Klein",
+      "approverCampusEmail": "eklein@mymail.mines.edu",
+      "approverUsername": "eklein",
+      "approverComments": "",
+      "approvedDate": "1627650648000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "delaneyboyle@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206264250"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Friday, July 30, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "10:00 AM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "10:00 AM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "Yes, I am traveling and already got this approved"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "I am not in the state and cannot place this order, so Begona gave permission for the Mines Cheer coach Irene Franek to make the purchase with a credit card on my behalf."
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Camp_Appropriateness_of_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1001516,
+      "requestNumber": 2463,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Cheerleading Team ",
+      "requestedAmount": 90.0,
+      "description": "From Amazon, we hope to purchase a portable speaker to be used to practice routines and dances throughout the season. I had placed a purchase request for this on July 1st but it was never accepted nor denied so if you could make sure we are only charged once that would be greatly appreciated! Feel free to order it on my behalf as well since it is an online link. Here is the link: https://www.amazon.com/gp/product/B0856DR25W/ref=ox_sc_saved_title_6?smid=ATVPDKIKX0DER&psc=1 ",
+      "accountId": 103263,
+      "accountName": "Cheerleading (383904)",
+      "categoryId": 7899,
+      "categoryName": "Supplies",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 16130439,
+      "submitterName": "Delaney Boyle",
+      "submitterUsername": "delaneyboyle",
+      "submitterCampusEmail": "delaneyboyle@mymail.mines.edu",
+      "submittedDate": "1627336741000",
+      "approverId": 25816101,
+      "approverName": "Evan Klein",
+      "approverCampusEmail": "eklein@mymail.mines.edu",
+      "approverUsername": "eklein",
+      "approverComments": "",
+      "approvedDate": "1627402678000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "delaneyboyle@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "7206264250"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "Yes, I will make this purchase in the SAIL office over phone/online"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Tuesday July 27, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "2:00 PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "2:00 PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": []
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Speaker_Appropriateness_of_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    },
+    {
+      "requestId": 1000630,
+      "requestNumber": 2461,
+      "requestType": "Purchase",
+      "organizationId": 200413,
+      "organizationName": "Student Organization Finances",
+      "subject": "Mines Cheerleading",
+      "requestedAmount": 2300.0,
+      "description": "We will be paying for a cheerleading camp hosted by UCA in Estes Park this August. It will be purchased online through the website myVarsity.",
+      "accountId": 103263,
+      "accountName": "Cheerleading (383904)",
+      "categoryId": 7900,
+      "categoryName": "Travel",
+      "payeeFirstName": "",
+      "payeeLastName": "",
+      "payeeStreet1": "",
+      "payeeStreet2": "",
+      "payeeCity": "",
+      "payeeState": "",
+      "payeePostal": "",
+      "stageId": 0,
+      "stageName": "",
+      "status": "Approved",
+      "submitterId": 27142881,
+      "submitterName": "Kaylie Carpenter",
+      "submitterUsername": "kayliecarpenter",
+      "submitterCampusEmail": "kayliecarpenter@mymail.mines.edu",
+      "submittedDate": "1625599415000",
+      "approverId": 15945828,
+      "approverName": "Hunter Johnson",
+      "approverCampusEmail": "hunterjohnson@mymail.mines.edu",
+      "approverUsername": "hunterjohnson",
+      "approverComments": "",
+      "approvedDate": "1625617810000",
+      "customFields": [
+        {
+          "name": "<p><strong>Version OneCard Borrower's Agreement (New as of 6.28.18)</strong></p>\n<p>If you are on this page, you are looking to spend money on behalf of your organization at the Colorado School of Mines.</p>\n<p><strong>REMINDER:</strong> you MUST verify with the treasurer of your organization before you complete a purchase on behalf of your organization to make sure that your group does not accumulate points. If your purchase is incorrectly completed, your group will accumulate points that will directly affect your ability to send later in the semester/next semester.</p>\n<p><strong>PLEASE NOTE:</strong> ALL SUBMISSIONS/REQUESTS ARE LIMITED TO THE TREASURER OF THE ORGANIZATION. This means that the treasurer of your organization is the only one with access to submit a request.&nbsp; That DOES NOT mean that they are the only ones who can spend funding for your organization. All other verified spenders of your organization, must still complete BOTH the online and in person training. Then the treasurer can put their name in the OneCard request to be able to pick up and make purchases.&nbsp; This has been changed from previous years based off treasurer feedback.</p>",
+          "value": []
+        },
+        {
+          "name": "<p><strong>Instructions<br /><br /></strong>Under each of the fields above, please give us the following information:</p>\n<p><em>Subject&nbsp;</em>&ndash; State the name of your organization</p>\n<p><em>Requested amount</em>&nbsp;&ndash; The amount you would like to spend (please make this as accurate as possible)</p>\n<p><em>Description</em>&nbsp;&ndash; List the vendor(s) and materials you will be purchasing</p>\n<p><em>Account&nbsp;</em>&ndash; From the list provided, select your organizations index number</p>\n<p><em>Category&nbsp;</em>&ndash; Select the category which most of your items belong<br /><br /></p>\n<p><em><strong>&nbsp;</strong></em></p>",
+          "value": []
+        },
+        {
+          "name": "Name of person making the purchase on behalf of the Student Organization",
+          "value": [
+            "Kaylie Carpenter"
+          ]
+        },
+        {
+          "name": "Email of person making the purchase",
+          "value": [
+            "kayliecarpenter@mymail.mines.edu"
+          ]
+        },
+        {
+          "name": "Phone number of person making the purchase",
+          "value": [
+            "3035150170"
+          ]
+        },
+        {
+          "name": "I verify that this person has completed their financial training through the SAIL office.&nbsp;",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "<strong>Check In/Out Times</strong>",
+          "value": []
+        },
+        {
+          "name": "Will you make this purchase over the phone or online?",
+          "value": [
+            "No, I need a physical credit card to take to a local business"
+          ]
+        },
+        {
+          "name": "<span>Checkout Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br>\r\n<br>\r\n<em>When you will come to the SAIL office to make the purchase/pick up the credit card</em>",
+          "value": [
+            "Tuesday, July, 6, 2021"
+          ]
+        },
+        {
+          "name": "Checkout Time (Between 9:00AM and 3:30PM, Monday-Friday)<br /> <br /> <em>When you will come to the SAIL office to make the purchase/pick up the credit card<br /><br /></em>",
+          "value": [
+            "3:00 PM"
+          ]
+        },
+        {
+          "name": "Check In Time (Between 9:00AM and 3:30PM, Monday- Friday)<br /><br /><em>If this is an online purchase, please make same time as Checkout time. If this is a physical card check out, please let us know when you will bring the card back to our office (please estimate your time appropriately based off of the venders location- card check out cannot be longer than 3 hours) </em>",
+          "value": [
+            "3:30 PM"
+          ]
+        },
+        {
+          "name": "<span>Checkin Date (Monday-Friday; Example: Monday, August, 6, 2018)</span><br /> <br /> <em>ONLY FILL THIS BOX OUT IF YOU HAVE GOTTEN APPROVAL FOR AN OVERNIGHT CHECK OUT. THIS MUST BE DONE IN ADVANCE BY THE SAIL FRONT DESK.</em>",
+          "value": []
+        },
+        {
+          "name": "I am traveling and need to check out the event card. I have already talked to Begona about travel and been approved to do this.",
+          "value": [
+            "No, this does not apply to me (I am not traveling)"
+          ]
+        },
+        {
+          "name": "By checking this box, I recognize that this is only a reservation form and does not guarantee I will be able to check out the OneCard. You will be notified within two business days of submission if your form has been accepted. I recognize that if my organizations account is in the red (we have missing documentation or other issues with our account/procedural errors, etc.), there will be no purchases made until the issues are resolved.<br /><br /><span>I agree that&nbsp;I will use the OneCard responsibly keeping in mind that it is money collected from the Student Body. I will not use this money to buy alcohol, weapons, or other non-approved paraphernalia. I accept the responsibility and liability of the OneCard while it is checked out under my name. I also agree to the all of SAIL's policies, procedures, and the point system put in place to hold all organizations accountable for their actions.</span>",
+          "value": [
+            "Selected"
+          ]
+        },
+        {
+          "name": "By electronically signing, you acknowledge that you will use the OneCard appropriately (tax exempt, itemized receipt, etc.<br>\r\n<br>\r\n(Type name in the box below to sign)",
+          "value": [
+            "Delaney Boyle"
+          ]
+        },
+        {
+          "name": "Any additional comments for SAIL staff?",
+          "value": [
+            "We will need to use Begona's card because the amount is above the limit."
+          ]
+        },
+        {
+          "name": "<span style=\"text-decoration: underline;\">Appropriateness of Expenditures Form</span><br /> <br />\n<p>If your purchase is greater than or equal to $50.00, please fill out the Appropriateness of Expenditures Form and upload it below. The form is hyperlinked <a href=\"https://mines.campuslabs.com/engage/organization/student-organization-finances/documents/view/851620\"> here</a> or can be found in the documents section of the Student Organization Finances portal.</p>",
+          "value": [
+            "Cheer_Camp_Expenditures_Form.docx"
+          ]
+        },
+        {
+          "name": "<p><span style=\"text-decoration: underline;\">Contracts</span></p>\nDoes your purchase require a signature or has a contract? Please upload the documentation here at least 2 weeks before the event/ contract execution date. As a reminder NO ONE, not even the SAIL staff, can sign a contract on behalf of the Colorado School of Mines. We must provide the contract to the appropriate offices at Mines in order to complete this type of transaction.",
+          "value": [
+            ""
+          ]
+        },
+        {
+          "name": "\r\n<p>If you have any questions please contact SAIL&nbsp;at stactiv1874@gmail.com.</p>\r\n",
+          "value": []
+        },
+        {
+          "name": "<strong><span style=\"text-decoration: underline;\">ADMIN USE ONLY: Checklist for SAIL Staff</span></strong>",
+          "value": []
+        }
+      ]
+    }
+  ]
+}
