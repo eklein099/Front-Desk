@@ -4,6 +4,8 @@ import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Insets;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -20,6 +22,7 @@ import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
@@ -59,6 +62,14 @@ public class RequestManager extends JFrame{
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
+		buildGUI();
+		
+		setVisible(true);
+		
+		saveRequests();
+	}
+	
+	public void buildGUI() {
 		JPanel noReceiptPanel = new JPanel();
 		JPanel completePanel = new JPanel();
 		
@@ -97,6 +108,7 @@ public class RequestManager extends JFrame{
 			textPanel.add(textField);			
 			textPanel.revalidate();
 			JButton button = new JButton("add receipt");
+			button.addActionListener(new AddReceiptAction(key,this));
 			button.setMaximumSize(new Dimension(100,50));
 			buttonPanel.add(button);
 			buttonPanel.revalidate();
@@ -110,7 +122,7 @@ public class RequestManager extends JFrame{
 		keys = completeRequests.keySet();
 		for(String key: keys) {
 			JSONObject json = completeRequests.get(key);
-			String text = ""+json.get("accountName")+" $"+json.get("requestedAmount");
+			String text = ""+json.get("accountName")+" $"+json.get("requestedAmount")+"     	"+json.get("fileLocation");
 			JTextField textField = new JTextField(text);
 			textField.setAlignmentX(JTextField.LEFT_ALIGNMENT);
 			textField.setMinimumSize(new Dimension(800,30));
@@ -128,9 +140,7 @@ public class RequestManager extends JFrame{
 		
 		setContentPane(tabbedPane);
 		
-		setVisible(true);
-		
-		saveRequests();
+		revalidate();
 	}
 	
 	//add a request to the hashmap if it has been approved
@@ -213,7 +223,7 @@ public class RequestManager extends JFrame{
 	}
 	
 	public void saveRequests() {
-		
+		//output approved requests map to file
 		try {
 			File file = new File("approved_requests.json");
 			PrintWriter writer = new PrintWriter(file);
@@ -228,7 +238,21 @@ public class RequestManager extends JFrame{
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
+		//output complete requests map to file
+		try {
+			File file = new File("complete_requests.json");
+			PrintWriter writer = new PrintWriter(file);
+			
+			Set<String> keys = completeRequests.keySet();
+			for(String key: keys) {
+				writer.println(completeRequests.get(key));
+			}
+			
+			writer.close();
+			
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 		
 	}
 	
@@ -268,6 +292,31 @@ public class RequestManager extends JFrame{
 			}
 		} catch (FileNotFoundException | ParseException e) {
 			e.printStackTrace();
+		}
+		
+	}
+	
+	public static class AddReceiptAction implements ActionListener{
+		
+		private String id;
+		RequestManager manager;
+		
+		public AddReceiptAction(String id, RequestManager manager) {
+			this.id = id;
+			this.manager = manager;
+		}
+		
+		@Override
+		public void actionPerformed(ActionEvent e) {
+			String fileLocation = JOptionPane.showInputDialog("Enter the location of the receipt file");
+			
+			JSONObject json = manager.approvedRequests.get(id);
+			json.put("fileLocation", fileLocation);
+			
+			manager.completeRequests.put(id, json);
+			manager.approvedRequests.remove(id);
+			manager.buildGUI();
+			manager.saveRequests();
 		}
 		
 	}
